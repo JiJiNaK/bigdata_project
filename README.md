@@ -6,4 +6,11 @@
 Steps:
 1. The dataset is downloaded from Kaggle and loaded into HDFS.
    ![1_creating_directory_hadoop](https://github.com/JiJiNaK/bigdata_project/assets/144101140/6aeda6a4-41ab-449b-b539-43bfa5679cb4)
+   ![2_dataloadedto_hadoop](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ffd96247-73ec-4b95-879e-2dccdfcdbe9b)
+
+2. From HDFS, data is loaded into Hive.
+   ![01_creating_table_using_serde_method](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e997a1c2-cfaa-4e17-a781-28f7b015ad0a)
+   ![02_load_data_to_serde_table](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2ae04a45-f886-421f-a444-24e6c6f675c2)
+
+
 
