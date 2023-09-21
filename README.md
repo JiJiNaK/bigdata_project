@@ -10,7 +10,8 @@ Steps:
 
 2. From HDFS, data is loaded into Hive.
    ![01_creating_table_using_serde_method](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e997a1c2-cfaa-4e17-a781-28f7b015ad0a)
-   ![02_load_data_to_serde_table](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2ae04a45-f886-421f-a444-24e6c6f675c2)
+   ![1 loaddatahdfs2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/5a8ec393-6215-4101-bb89-6c8c80b3eeb2)
+
 
 
 
