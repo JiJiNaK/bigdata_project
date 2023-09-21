@@ -5,3 +5,5 @@
 
 Steps:
 1. The dataset is downloaded from Kaggle and loaded into HDFS.
+   ![1_creating_directory_hadoop](https://github.com/JiJiNaK/bigdata_project/assets/144101140/6aeda6a4-41ab-449b-b539-43bfa5679cb4)
+
