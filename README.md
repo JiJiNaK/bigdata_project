@@ -67,14 +67,8 @@ Steps:
 
 
 
-   
-   
 
-4.
-   a) Using SerDe properties, data is loaded into the table by removing quotes (strings).
-   b) From this table, data is loaded into a main table.
-   c) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
-   d)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded are filtered, and this result is loaded into a table.
+
    e) Finally, the output is loaded into the Hadoop directory, and graphs are plotted using Matplotlib.
 
 
