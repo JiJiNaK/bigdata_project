@@ -8,9 +8,57 @@ Steps:
    ![1_creating_directory_hadoop](https://github.com/JiJiNaK/bigdata_project/assets/144101140/6aeda6a4-41ab-449b-b539-43bfa5679cb4)
    ![2_dataloadedto_hadoop](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ffd96247-73ec-4b95-879e-2dccdfcdbe9b)
 
-2. From HDFS, data is loaded into Hive.
+2. From HDFS, data is loaded into Hive by creating database.
+   ![creating_database_1](https://github.com/JiJiNaK/bigdata_project/assets/144101140/cf554834-63d9-4a19-8335-561ea1ceb69d)
+
+   a) Using SerDe properties, data is loaded into the table by removing quotes.
+
+   * 2016 cases against Police Personals
+
    ![01_creating_table_using_serde_method](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e997a1c2-cfaa-4e17-a781-28f7b015ad0a)
    ![1 loaddatahdfs2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/5a8ec393-6215-4101-bb89-6c8c80b3eeb2)
+
+
+   * 2017 cases against Police Personals
+
+   ![2 createnormal table 2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/0e052bba-68c2-4b96-95a9-57072450e556)
+   ![2 loaddatahdfs2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/f560c245-cc87-40bb-ba7d-bd4e8009aa2e)
+
+
+   * 2018 cases against Police Personals
+  
+   ![3 create normal table 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/9a056e18-39cf-42dc-9c49-e98b46e3c65e)
+   ![3 loaddatahdfs2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/dec55abe-e4f0-4026-9a23-eeddfe2d0adc)
+
+   b) From this table, data is loaded into a main table.
+
+   * 2016 cases against Police Personals
+
+   ![1 newtable created 2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e48a71ef-a80c-461e-b4fb-07f21cc85b9f)
+   ![1 insert2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/07769757-1877-4724-9a06-2ee42afce372)
+
+   * 2017 cases against Police Personals
+
+   ![2 create newtable2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/22115f6e-ea12-4aec-aa82-70c736e80555)
+   ![2 insert2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/55efca23-5390-4844-86a8-44e8ccd4f258)
+
+   * 2018 cases against Police Personals
+
+   
+   
+
+
+
+
+
+
+
+4.
+   a) Using SerDe properties, data is loaded into the table by removing quotes (strings).
+   b) From this table, data is loaded into a main table.
+   c) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
+   d)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded are filtered, and this result is loaded into a table.
+   e) Finally, the output is loaded into the Hadoop directory, and graphs are plotted using Matplotlib.
 
 
    
