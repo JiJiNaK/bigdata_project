@@ -60,14 +60,23 @@ Steps:
 
    d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
+   * 2016 cases against Police Personals
 
+   ![1 add table to new table2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/1264a8b3-60ab-4e67-bd45-56fe32ff07b8)
+   ![creating_dir](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a8e6c3a2-d131-4829-9582-4083b7b971ab)
+   ![1 new insert table 2016 to hdfs](https://github.com/JiJiNaK/bigdata_project/assets/144101140/02fad879-a964-47f1-9e02-3a69361aef7a)
 
+   * 2017 cases against Police Personals
 
+   ![2 add table newtable 2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/f544dcc8-bd69-43dd-bb65-6944efb3958f)
+   ![2017_dir](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2d0aa425-bfeb-497d-aefe-a890c539e55a)
+   ![2 new insert hdfs2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/4ffe56c6-fbd8-49a0-b22f-eada35213133)
 
+   * 2018 cases against Police Personals
 
-
-
-
+   ![3 add table 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ce05c719-980a-4797-8165-d03367d573d7)
+   ![2018_dir](https://github.com/JiJiNaK/bigdata_project/assets/144101140/509cfe27-8d7b-4712-af26-1f4e7d2315fe)
+   ![3 new inserthdfs 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/80c025ed-b71c-4590-8d24-00c3d36f3bd3)
 
    e) Finally, the output is loaded into the Hadoop directory, and graphs are plotted using Matplotlib.
 
