@@ -30,6 +30,38 @@ Steps:
    ![3 create normal table 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/9a056e18-39cf-42dc-9c49-e98b46e3c65e)
    ![3 loaddatahdfs2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/dec55abe-e4f0-4026-9a23-eeddfe2d0adc)
 
+   * 2016 Escape from Police Custody
+
+   ![1 create normal table2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e45b1d63-fd8c-4dc2-82c8-0ddc6ef2de48)
+   ![1 loaddatahdfs2016(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a4ff78a0-2a9a-4200-bb4e-2e2b2b98be6c)
+
+   * 2017 Escape from Police Custody
+     
+   ![2 create normal table 2017(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/506d03a6-d0f4-4225-95ca-2f5ea6cbfc27)
+   ![2 loaddatahdfs2017(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a9724f1d-4d88-45ff-b44a-6f1727d89ccf)
+
+   * 2018 Escape from Police Custody
+     
+   ![3 create noraml table 2018(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/77a2dba6-31aa-4e31-bb78-986245c8ea64)
+   ![3 loaddata hdfs 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/96ba99d4-abec-4dd8-858c-14145836c846)
+
+   The data is already in integer datatype, so the serde property is not used. Instead, a table is created and loaded directly into HDFS. (2016 victims of rape)
+
+   * 2016 Victims of Rape
+  
+   ![1 create table vit2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/774e4723-c3e6-4854-8901-6086f47507d6)
+   ![1 loaddatahsdfs2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/8100b71d-edbd-4ad6-ad52-d0a700d3a3e1)
+
+   * 2017 Victims of Rape
+  
+   ![2 create table vit 2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/024acc2a-c7d7-4550-82af-9af58bab0add)
+   ![2 loaddatahdfs2017(2)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ba82fdb8-ecba-4c26-8a81-b39010399fc7)
+
+   * 2018 Victims of Rape
+
+   ![3 create normal table2018 ](https://github.com/JiJiNaK/bigdata_project/assets/144101140/cc18d06c-cd52-497d-b725-2c19970396b7)
+   ![3 loaddatafromhdfs2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/1a5526c9-f301-4e1b-9242-75c85e260883)
+
    b) From this table, data is loaded into a main table.
 
    * 2016 cases against Police Personals
@@ -47,7 +79,28 @@ Steps:
    ![3 create new table 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a957106d-b598-46cc-b8ba-c85bd0fb8b84)
    ![3 insert 2018 ](https://github.com/JiJiNaK/bigdata_project/assets/144101140/619f6a56-0421-46e4-8434-4033660b3cfa)
 
+   * 2016 Escape from Police Custody
+
+   ![1 newtable2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/da1ac221-b5dd-47eb-bde4-d5b3336a70b7)
+   ![1 insert 2016 ](https://github.com/JiJiNaK/bigdata_project/assets/144101140/7be2b4c9-33eb-42fd-8c7e-c795356f1ee3)
+
+   * 2017 Escape from Police Custody
+
+   ![2 2017 new table create(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/caa3af72-7364-4c6e-82fc-37c3abc04131)
+
+   * 2018 Escape from Police Custody
+
+   ![3 create newtable 2018(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ddc2b8c5-17b2-4327-8087-8d4991e0055e)
+   ![3 insert 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/20888b28-6466-4aab-833a-b7108729fb6e)
+
+   * 2018 Victims of Rape
+
+   ![3 create newtable2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/3a1a8a43-3e95-419f-9849-f13a008539db)
+   ![3 insert 3 table 2018(1)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/56258286-7e30-450f-9180-38413ce25dc9)
+
    c) Using the group by and order by functions in Hive, the top 10 states with the highest number of cases for three years(2016,2017,2018) recorded are filtered, and this          result is loaded into a table.
+
+   * Total number of cases in three years(2016,2017,2018)
 
    ![creating_all_cases](https://github.com/JiJiNaK/bigdata_project/assets/144101140/cca69829-746d-4b99-89f0-bc701f5d94ee)
    ![insert_into_all_cases](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e7c59e6b-ca74-4abb-949d-8e8f27181b3f)
