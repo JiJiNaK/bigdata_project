@@ -111,6 +111,30 @@ Steps:
    ![1 total_no_cases desc](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a7e7b867-e7a9-4382-a926-df9a57119d70)
    ![1 total no cases insert hdfs](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ee39a770-b772-42e9-8fc9-c9a636d6b4a8)
 
+   * Total number of Escape in three years(2016,2017,2018)
+
+   ![1 create 3 table 2016(2)](https://github.com/JiJiNaK/bigdata_project/assets/144101140/58dfa60a-089a-44be-9546-06c4c3a6ee2d)
+   ![1 insert 3 tables2016](https://github.com/JiJiNaK/bigdata_project/assets/144101140/0fa271f6-f237-43e2-98ff-7e553d1917cc)
+   ![2 insert 3 tables2017](https://github.com/JiJiNaK/bigdata_project/assets/144101140/b8db7806-bf53-499e-8167-5c6eeca0f1ab)
+   ![3 insert 3 table 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/06c2ebe4-13fe-44a8-934a-72eff1b905dc)
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/823ff9dd-0017-4acd-abad-876d3226cea4)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/82414c63-70d0-4968-a29f-91437ea17d3b)
+   ![insert](https://github.com/JiJiNaK/bigdata_project/assets/144101140/f2125446-2382-45fd-a010-72bbff50f2d5)
+
+   * Total number of Victims in three years (2016,2017,2018)
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/1131e1cf-eaf5-40e1-adc4-2e31ddcffca0)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/4bbcaecb-1757-4d85-a076-a7f516db2f16)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/9f01c2c9-b17a-4cc0-97fd-545ffc54d8c3)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2c8901d7-ca75-4038-ba64-4dd236e8900a)
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/365309e8-c14a-4f86-b0cc-04d7446cf58c)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/cef793e3-8eec-4f06-b7ad-c5c994048544)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/bdc13e58-8b3f-44a1-8345-8506e3f245ab)
+
+
+
    d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
    * 2016 cases against Police Personals
@@ -131,7 +155,133 @@ Steps:
    ![2018_dir](https://github.com/JiJiNaK/bigdata_project/assets/144101140/509cfe27-8d7b-4712-af26-1f4e7d2315fe)
    ![3 new inserthdfs 2018](https://github.com/JiJiNaK/bigdata_project/assets/144101140/80c025ed-b71c-4590-8d24-00c3d36f3bd3)
 
-   e) Finally, the output is loaded into the Hadoop directory, and graphs are plotted using Matplotlib.
+   * 2016 Escape from Police Custody
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/fecb1977-22ae-4f4e-9b5a-1f8208c8bab5)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/ff2653b8-74a2-46dd-afdd-deaf828d6e56)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/3e3e4279-54d7-4ca6-a3eb-01170c5ed493)
+
+   * 2017 Escape from Police Custody
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/18ef9cac-17be-40c0-b7b9-510fbdd6b311)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/7cc0133e-080b-49fc-b006-2d0635bf3cea)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/debbcf2c-4a6b-4951-990e-98d6f53c3544)
+
+   * 2018 Escape from Police Custody
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/dde4d505-edca-4dbf-81f5-eee23be15a47)
+   ![directory](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2ed2043d-3753-4d70-bd79-c2cc9757e9b0)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/2c66d680-a5b6-4895-8505-8a7fb7603c30)
+
+   * 2016 Victims of Rape
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/564f3301-171c-458e-97a7-0ee76585311d)
+   ![directory2](https://github.com/JiJiNaK/bigdata_project/assets/144101140/3485c9e4-cd01-4998-95f4-ddd950c9cce8)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/fd49e4dd-60d8-4735-af90-457dbab1373a)
+
+   * 2017 Victims of Rape
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/34d9bd48-9fd3-4e91-b7f4-dd3782863ace)
+   ![dir3](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a6322e8a-8e99-4f5a-8f9d-733b6b1da0bb)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/3e201327-366e-44c9-bca5-028d3f9e4211)
+
+   * 2018 Victims of Rape
+
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/8b01cbd2-ff37-4d78-9043-7391712d79c9)
+   ![dir4](https://github.com/JiJiNaK/bigdata_project/assets/144101140/c68461cd-7c9c-482c-bc1d-08562dff50d4)
+   ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/72f4546a-8e1a-41de-9360-e5212c5af8cd)
+
+   
+   e) The result are plotted using matplotlip in pyspark.
+
+     * The files regarding the cases against police personnel escapes from police custody,and victims of rape are mentioned above as cases.py,escapes.py and victims.py              respectively.
+     * The report are given below
+  
+  I) To find the top 10 states/UT with the highest number of cases reported in the year 2016.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/5a480783-ba22-4e92-9355-403902f56723)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/073b744c-8958-4958-884f-505556a5b2ce)
+
+  II) To find the top 10 states/UT with the highest number of cases reported in the year 2017.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/67dcabc4-c229-4274-b1f2-78e36a232416)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/20d73e05-715c-4759-8544-6ea22ed19b5f)
+
+  III) To find the top 10 states/UT with the highest number of cases reported in the year 2018.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/30aa178f-6326-4ed7-aef5-cdc320142549)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/1ea261f0-4236-4709-ba91-51e056d2b140)
+
+  IV) To find the top 10 states/UT with the highest number of cases reported in the three years (2016,2017,2018).
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/bfd5e63c-d70d-4b45-a762-d900ae49ceaa)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/94118192-0f55-44f6-8ffc-9858e0b4c22a)
+
+  V) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2016.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/0ff438c2-9631-40bf-a075-908138709d91)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/e06c6956-1f7f-4694-8cf0-0dc6b40246d6)
+
+  VI) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2017.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/1b6ad8f0-4b2a-4aa7-933f-a82e616bf945)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/a45b78dc-bf5c-4a9c-8986-ac67997d714c)
+
+  VII) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2018.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/6782a77d-8f6d-4050-8b4c-46dd8e97ddfe)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/c9a13d55-2c85-48f7-b823-e3a1cecece51)
+
+  VIII) To find the top 10 states/UT with total number of persons escaped from police custody in the three years (2016,2017,2018).
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/9e7267e4-0091-4199-8637-aa9275497ea0)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/eebd3669-77c6-4ede-bbdb-dc2e43360a24)
+
+  IX) To find the top 10 states with rape victims in india top 10 states in the year 2016.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/5f936e0f-dc64-4dc6-90d6-8f940f03a310)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/9d50fca8-2604-4893-980d-d7c7852cca3f)
+
+  X) To find the top 10 states with rape victims in india top 10 states in the year 2017.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/26938e7d-6ec2-40dd-87fa-435996a85e93)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/c0fc61e0-5714-4472-84e9-2ab0002fc358)
+
+  XI) To find the top 10 states with rape victims in india top 10 states in the year 2018.
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/3dc7d511-bc74-4534-89f8-3049b1d02df9)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/6961c870-a50e-433d-88a7-7c9b29c03d4c)
+
+  XII) To find the top 10 states with rape victims in india top 10 states in the three years (2016,2017,2018).
+
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/d5454d61-cae3-4c10-98fc-061d18a4305d)
+  ![image](https://github.com/JiJiNaK/bigdata_project/assets/144101140/18581904-1bbd-49a8-8180-2b48faa608f8)
+
+
+# Conclusion
+
+1.The top 10 States/UTs with Highest Number of Cases Reported (2016, 2017, 2018) In conclusion, our analysis has revealed the top 10 states/union territories with the highest number of reported cases over the three-year period (2016-2018). This information can aid in understanding regional trends and facilitating targeted interventions.
+
+2.The top 10 States/UTs with Total Number of Persons Escaped from Police Custody (2016, 2017, 2018) To summarize, our investigation has identified the top 10 states/union territories with the highest number of individuals who escaped from police custody during the three-year span (2016-2018). This data may inform efforts to enhance custodial security measures.
+
+3.The top 10 States with Rape Victims in India (2016, 2017, 2018) In summary, our research has pinpointed the top 10 states in India with the highest number of reported rape cases over the three-year period (2016-2018). This insight is crucial for addressing and advocating for measures to combat sexual violence in these regions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
    
